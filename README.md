@@ -1,7 +1,9 @@
 # swift-side-menu-with-segue
 I was asked to add a version of my side menu that handles the side menu options. Here it is! Enjoy :)
 
-![ Alt text](side-menu.gif) [](side-menu.gif)
+
+![side-menu](https://user-images.githubusercontent.com/89708428/180518202-6d582cea-752c-432d-b288-710d27872095.gif)
+
 
 A more creative way to present a side menu on iOS.
 
